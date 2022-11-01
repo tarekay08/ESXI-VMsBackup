@@ -42,3 +42,12 @@ password2 = ********
 vm1 = Master
 vm2 = BackEnd
 ```
+
+### 5. days to run
+```bash
+[days]
+day1 = 31
+day2 = 2
+day3 = 7
+day4 = 1
+```
